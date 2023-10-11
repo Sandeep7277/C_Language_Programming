@@ -1,3 +1,4 @@
+//Program to print A with star pattern.
 #include<stdio.h>
 #include<conio.h>
 void main()
